@@ -6,4 +6,3 @@ A simple todo app written in node and express.
 
 * Add, edit, and delete tasks
 * Mark tasks as completed
-* Filter tasks by status
